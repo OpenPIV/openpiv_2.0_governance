@@ -25,6 +25,6 @@ Think about making a website and best practice tutorial that explains to users h
 
 ## Co-authors
 
-1. @ali-sh-96
-2. @alexlib
+1. Ali [ali-sh-96](https://github.com/ali-sh-96/)
+2. Alex [alexlib](https://github.com/alexlib/)
 3. Please join us
